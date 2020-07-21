@@ -57,7 +57,7 @@
     "common-tags": "^1.8.0",
     "imagemagick": "^0.1.3",
     "imagemagick-convert": "^1.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "tmp-promise": "^3.0.2",
     "uuid": "^8.2.0",
     "yargs": "^15.3.1"
